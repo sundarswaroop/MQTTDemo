@@ -1,0 +1,7 @@
+git clone XXX
+git status
+git add <.>/<filename>
+git commit -m "message to commit"
+git push
+
+git clone <git url>
